@@ -6,4 +6,9 @@ Get
 
 Post
 
+![Screenshot (41)](https://github.com/adamkennedy123/Lab12Web/assets/92745982/90dcbe5f-7695-406b-b9b3-6d4842f3196e)
+
+
+Put
+
 ![Screenshot (40)](https://github.com/adamkennedy123/Lab12Web/assets/92745982/7030cb04-88bd-448c-857c-46fa4417b5e9)
