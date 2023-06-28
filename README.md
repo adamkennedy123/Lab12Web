@@ -12,3 +12,11 @@ Post
 Put
 
 ![Screenshot (40)](https://github.com/adamkennedy123/Lab12Web/assets/92745982/7030cb04-88bd-448c-857c-46fa4417b5e9)
+
+Delete
+
+![Screenshot (42)](https://github.com/adamkennedy123/Lab12Web/assets/92745982/e141ce27-5432-44d1-bcf4-47ba810eb738)
+
+Hasil
+
+![Screenshot (43)](https://github.com/adamkennedy123/Lab12Web/assets/92745982/66e7ad76-f8c3-4c20-b41b-0d151dabddf1)
